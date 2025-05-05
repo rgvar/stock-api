@@ -1,0 +1,12 @@
+StockMaster/bin/
+StockMaster/obj/
+.vs/
+*.user
+*.suo
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+.env
+.env.*
