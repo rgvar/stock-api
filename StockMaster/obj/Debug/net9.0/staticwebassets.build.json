@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "faGw7cVgleVL3Y7MP9JnvTTByY4IfAhkMLFg8u3qejU=",
+  "Source": "StockMaster",
+  "BasePath": "_content/StockMaster",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
